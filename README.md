@@ -12,19 +12,19 @@ Developed using :
 <br />
 
 Spring framework , jsp, mysql, tomcat 8.0, js,html 
-
+<fieldset>
 <br> Screenshot
 <br>
 <img src= "https://i.ibb.co/4ptYsQ6/login.png" alt="" />
 <br>
-<img src= "https://ibb.co/y5k31wG" alt="" />
+<img src= "https://i.ibb.co/gwWnp5H/department.png" alt="" />
 <br>
-<img src= "https://ibb.co/9vSzzKm" alt="" />
+<img src= "https://i.ibb.co/sPzkkxp/dosen.png" alt="" />
 <br>
-<img src= "https://ibb.co/1XhLHKG" alt="" />
+<img src= "https://i.ibb.co/X5Nbmpx/mahasiswa.png" alt="" />
 <br>
-<img src= "https://ibb.co/Tg8W53L" alt="" />
-
+<img src= "https://i.ibb.co/0GMs3bt/pdf.png" alt="" />
+<f/ieldset>
 
 
 
