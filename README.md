@@ -23,8 +23,8 @@ Spring framework , jsp, mysql, tomcat 8.0, js,html
 <br>
 <img src= "https://i.ibb.co/X5Nbmpx/mahasiswa.png" alt="" />
   <br>
-  <img src= "hhttps://i.ibb.co/YdFN0B7/Untitled.png" alt="" />
-  
+  <img src= "https://i.ibb.co/YdFN0B7/Untitled.png" alt="" />
+ 
 <br>
 <img src= "https://i.ibb.co/0GMs3bt/pdf.png" alt="" />
 <fieldset>
