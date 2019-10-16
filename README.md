@@ -1,5 +1,3 @@
-# repobaru
-soal java
 
 
 
